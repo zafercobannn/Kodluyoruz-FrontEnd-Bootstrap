@@ -1,0 +1,75 @@
+body {
+    background-color:  #E9ECEF;
+}
+
+.menu {
+    background-color: seashell;
+    border-radius: 24px;
+    margin-top: 10px;
+}
+
+.menu-items {
+    padding-top: 7px;
+    color: lightskyblue;
+    font-size: large;
+    text-decoration: none;
+    padding-left: 30px;
+}
+h1 {
+    color: orange;
+}
+
+a.menu-items:hover {
+    text-decoration: none;
+    color: lightgray
+}
+
+.btn:hover{
+    background-color:lightgray;
+}
+
+.navbar-right {
+    background-color: seashell;
+    padding-top: 6px;
+}
+
+.header {
+    color: orange;
+}
+
+.jumbotron {
+    margin-top: 5px;
+    height: 750px;
+    background-color:  #E9ECEF;
+}
+
+.btn {
+    background-color: lightblue;
+    color: white;
+}
+
+.foto {
+    width: 1100px;
+}
+
+.kesfet {
+     color: orange;
+}
+
+.lead {
+    color: black;
+}
+
+.contact-telephone {
+    text-align: center;
+}
+
+.cards {
+    margin-top: 80px;
+    margin-left: 80px;
+}
+
+.bizeulasın {
+    height: 170px;
+    width: 300px;
+}
